@@ -1,0 +1,20 @@
+[
+  {
+    "e_number": "E621",
+    "name": "Monosodium Glutamate",
+    "safety": "⚠️ Moderate",
+    "description": "Flavor enhancer; some people are sensitive to it."
+  },
+  {
+    "e_number": "E100",
+    "name": "Curcumin",
+    "safety": "✅ Safe",
+    "description": "Natural yellow coloring derived from turmeric."
+  },
+  {
+    "e_number": "E211",
+    "name": "Sodium Benzoate",
+    "safety": "❌ Avoid",
+    "description": "Preservative; may cause hyperactivity in children."
+  }
+] 
