@@ -42,8 +42,9 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "095b6475-ffa5-4456-96d4-a13ae6217cd0"
+        "projectId": "7f7497f6-5466-4875-89b8-0ce6eca638ab"
       }
-    }
+    },
+    "owner": "pubudu.tharaka"
   }
 }
